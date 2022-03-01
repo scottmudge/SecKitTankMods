@@ -12,7 +12,7 @@ Find a list of the available entries below:
 ### Incident
 During assembly, I accidentally bent the constant force spring used to counter the weight of the build-plate along the z-axis. This is apparently somewhat easy to do, as all it took in my case was slightly bending the spring in a half-circular curve, roughly 10cm in diameter, opposite to the natural curl of the spring. 
 
-I believe the issue has more to do with the natural longitudinal curve running along the length of the extended strip of the spring, sort of like a tape measure or "snap bracelet". When bent in a direction opposite to the natural "curl" of the spring, it is quite easy to create a permanent fold or "kink" in the spring.
+I believe the issue has more to do with the natural longitudinal curve running along the length of the extended strip of the spring, sort of like a tape measure or ["snap bracelet"](https://www.thenakedscientists.com/get-naked/experiments/snap-bracelets-tape-measures-bistable-structures). This imparts a sort of bistable structure to the spring. When bent in a direction opposite to the natural "curl" of the spring, it is quite easy to create a permanent fold or "kink" in the spring.
 
 In my case this caused a number of issues when the spring was extended and retracted. During extension, a variable amount of force was applied by the spring as the kinks were being unwound from the bobbin. It also produced an audible "click" and associated vibration as the kink/fold would unwind from the bobbin.
 
