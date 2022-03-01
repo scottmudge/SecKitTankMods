@@ -17,7 +17,7 @@ I believe the issue has more to do with the natural longitudinal curve running a
 In my case this caused a number of issues when the spring was extended and retracted. During extension, an even amount of force was applied by the spring as the kink was being unwound from the bobbin. It also produced an audible "click" and associated vibration as the kink/fold would unwind from the bobbin.
 
 
-***Kink in the original spring: ***
+*** Kink in the original spring: ***
 ![Kinked original spring](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/kink.png)
 
 #### Issue
