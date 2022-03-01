@@ -52,6 +52,7 @@ The spring is mounted to the same mount hole on the horizontal brace of the fram
 * 30mm M3 screw (no nut)
 * 15-30mm M5 screw (and corresponding nut)
 * 10mm M4 or M5 screw (and corresponding nut)
+* New spring, item [9293K295](https://www.mcmaster.com/9293K295/) from McMaster-Carr
 
 ### Instructions
 
