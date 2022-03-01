@@ -6,17 +6,13 @@
 ### [Repairs](#repairs)
 * [Constant Force Spring Replacement](#cfspring)  
 
----
-
 <a name="repairs"/>
-<div style="font-size: 3em;">
-Repairs
-</div>
-	
+
+ ## Repairs
+
 <a name="cfspring"/>
-<div style="font-size: 2em;">
-Constant Force Spring Replacement (USA)
-</div>
+
+### Constant Force Spring Replacement (USA)
 
 ![Replaced spring](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/front.jpg)
 
