@@ -1,5 +1,4 @@
 # SecKit Mods, Upgrades, and Repairs
-----
  This repository contains the modifications, upgrades, and repairs to the SecKit Tank which I've created. Other modifications and repairs can be found on the primary SecKit website or wiki -- these are just those I have personally developed.
  
 ## Table of Contents:
@@ -7,15 +6,17 @@
 ### [Repairs](#repairs)
 * [Constant Force Spring Replacement](#cfspring)  
 
-<a name="repairs"/>
-
 ---
 
- # Repairs
-
+<a name="repairs"/>
+<div style="font-size: 3em;">
+Repairs
+</div>
+	
 <a name="cfspring"/>
-
-## Constant Force Spring Replacement (USA)
+<div style="font-size: 2em;">
+Constant Force Spring Replacement (USA)
+</div>
 
 ![Replaced spring](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/front.jpg)
 
