@@ -2,12 +2,22 @@
 ----
  This repository contains the modifications, upgrades, and repairs to the SecKit Tank which I've created. Other modifications and repairs can be found on the primary SecKit website or wiki -- these are just those I have personally developed.
  
-Find a list of the available entries below:
+## Table of Contents:
 
+### [Repairs](#repairs)
+* [Constant Force Spring Replacement](#cfspring)  
+
+<a name="repairs"/>
+
+---
 
  # Repairs
 
-## 1. Constant Force Spring Replacement (USA)
+<a name="cfspring"/>
+
+## Constant Force Spring Replacement (USA)
+
+![Replaced spring](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/front.jpg)
 
 ### Incident
 During assembly, I accidentally bent the constant force spring used to counter the weight of the build-plate along the z-axis. This is apparently somewhat easy to do, as all it took in my case was slightly bending the spring in a half-circular curve, roughly 10cm in diameter, opposite to the natural curl of the spring. 
@@ -38,7 +48,7 @@ Unfortunately the spring is wider and thus the attachment hole to the z-axis bed
 
 I've created a new attachment method which re-orients the spring and provides a new attachment location, coupling the spring to the same location the original spring was connected to.
 
-The design is such that the spring should be perfectly vertical when extended, reducing the amount of unwanted lateral force.
+The design is such that the spring [should be perfectly vertical when extended](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/side.jpg), reducing the amount of unwanted lateral force.
 
 ***A diagram of the updated design:***
 ![Kinked original spring](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/design.png)
