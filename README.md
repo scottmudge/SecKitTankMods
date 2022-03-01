@@ -5,11 +5,11 @@
 Find a list of the available entries below:
 
 
- ## Repairs
+ # Repairs
 
-### 1. Constant Force Spring Replacement (USA)
+## 1. Constant Force Spring Replacement (USA)
 
-#### Incident
+### Incident
 During assembly, I accidentally bent the constant force spring used to counter the weight of the build-plate along the z-axis. This is apparently somewhat easy to do, as all it took in my case was slightly bending the spring in a half-circular curve, roughly 10cm in diameter. 
 
 I believe the issue has more to do with the natural longitudinal curve running along the length of the extended strip of the spring, sort of like a tape measure or "snap bracelet". When bent in a direction opposite to the natural "curl" of the spring, it is quite easy to create a permanent fold or "kink" in the spring.
@@ -17,10 +17,10 @@ I believe the issue has more to do with the natural longitudinal curve running a
 In my case this caused a number of issues when the spring was extended and retracted. During extension, an even amount of force was applied by the spring as the kink was being unwound from the bobbin. It also produced an audible "click" and associated vibration as the kink/fold would unwind from the bobbin.
 
 
-*** Kink in the original spring: ***
+***Kink in the original spring:***
 ![Kinked original spring](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/images/kink.png)
 
-#### Issue
+### Issue
 
 I've been told that the constant force spring now used in the Tank is a custom part designed specifically for the tank. It has a force of ~**1.2 kg** and a length of roughly **600mm**. 
 
@@ -34,7 +34,7 @@ At the time of writing this, it is ~$5 USD, which is pretty cheap.
 
 Unfortunately the spring is wider and thus the attachment hole does not line up with the hole used by the existing spring.
 
-#### Solution
+### Solution
 
 I've created a new attachment method which re-orients the spring and provides a new attachment location, coupling the spring to the same location the original spring was connected to.
 
@@ -45,7 +45,7 @@ The design is such that the spring should be perfectly vertical when extended, r
 
 The spring is mounted to the same mount hole on the horizontal brace of the frame, but instead of extending out horizontally in the y-axis, it is parallel to the x-axis. It then attaches to a plate
 
-#### Parts
+### Parts
 
 * Printed STLs (linked below)
 * 10mm M3 screws (x2, and corresponding nut)
@@ -53,7 +53,7 @@ The spring is mounted to the same mount hole on the horizontal brace of the fram
 * 15-30mm M5 screw (and corresponding nut)
 * 10mm M4 or M5 screw (and corresponding nut)
 
-#### Instructions
+### Instructions
 
 1. Print the STLs linked below. I used ASA for higher thermal resistance.
 2. Assemble the bobbin so that the spring is fixed onto it. Use some CA glue or similar, but make sure the glue does not ooze out onto the spring.
@@ -62,7 +62,7 @@ The spring is mounted to the same mount hole on the horizontal brace of the fram
 5. Fix the spring attachment plate to the rear z-axis bed bracket at the same location the old spring was attached to. Use 2x 10mm M3 screws and nuts.
 6. Extend the spring and attach to the attachment plate using an M4 or M5 screw (10mm or so). 
 
-#### STLs
+### STLs
 * **[Lower Bobbin](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/stl/CFSpring-BobbinLower.stl)**
 * **[Upper Bobbin](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/stl/CFSpring-BobbinUpper.stl)**
 * **[Attachment Plate](https://raw.githubusercontent.com/scottmudge/SecKitTankMods/master/CFSpring_Replacement/stl/CFSpring-Joiner.stl)**
